@@ -1,0 +1,38 @@
+body {
+	/* Positioning */
+	margin-right: 0;
+	margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding-top: 10%;
+	padding-bottom: 20%;
+
+	/* Typography */
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+	text-align: center;
+	font-size: 2rem;
+	font-weight: lighter;
+
+	/* Visual */
+	background-color: #EC5B68;
+}
+
+header {
+	font-size: 3rem;
+}
+
+#green,
+#grey,
+#pink
+{
+	/* Positioning */
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 1%;
+
+	/* Border setting */
+	border-style: outset;
+	border-width: 1px;
+	border-color: white;
+}
